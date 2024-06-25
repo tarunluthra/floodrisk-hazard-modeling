@@ -11,6 +11,6 @@ This repository contains the following files for flood risk hazard modeling:
 
 This project aims to model flood risk hazards by combining vulnerability estimates due to infrastructure, sensitivity to water, and social and demographic issues. The flood hazard model is created based on elevation, slope, and precipitation data, and a composite flood risk model was developed using the following equation:
 
-\[ \FloodRisk = Hazard x Vulnerability \]
+\[ FloodRisk = Hazard x Vulnerability ]
 
 
