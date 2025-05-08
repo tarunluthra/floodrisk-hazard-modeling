@@ -31,6 +31,7 @@ To produce a spatial flood risk map by modeling:
 | `EstimateVulnerability.ipynb` | Computes infrastructure, social, and economic transform tabular data to estimate vulnerability indexes.  |
 | `FloodHazardModelClean.ipynb` | Applies GARP-based modeling using flood occurrence data and conditioning factors (e.g., slope, DEM, rainfall). |
 | `FloodRiskModelClean.ipynb` | Multiplies the hazard and vulnerability layers to produce the final flood risk map. |
+| 'Flood Risk Analysis of New York City_TL.pdf'| Final report of the project including results and conclusion.|
 
 ---
 
